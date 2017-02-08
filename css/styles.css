@@ -1,0 +1,21 @@
+div.green {
+  color: green;
+  font-family: fantasy;
+  text-align: center;
+}
+div.red {
+  color: red;
+  font-family: fantasy;;
+  text-align: justify;
+}
+span.purple {
+  color: purple;
+  font-weight: bold;
+  font-size: 18px;
+}
+span.about {
+  font-style: italic;
+}
+div.me {
+  font-family: monospace;
+}
